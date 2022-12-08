@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(83, 77, 77);
+}
+
+.top {
+    background-color: #DBD8E3;
+    padding-bottom: 1%;
+}
+.middle {
+    margin-top: 1%;
+    padding: 1px;
+    background-color: #DBD8E3;
+}
+.bottom {
+    background-color: #DBD8E3;
+}
+
+.container {
+    padding-top: 2px;
+    border-radius: 15px;
+    background-color: #DBD8E3;
+    background-size: 10%;
+    text-align: center;
+}
+
+.input-box {
+    padding-top: 2px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.link-button {
+    padding-top: 2px;
+    padding-right: 5px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    color: black;
+    font-size: large;
+    text-decoration: none;
+}
